@@ -1,3 +1,7 @@
+# quisp
+.cmdenv-log
+results
+
 # for direnv
 .envrc
 
