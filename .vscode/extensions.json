@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "ms-toolsai.jupyter",
+        "editorconfig.editorconfig",
+        "ms-python.python",
+        "schrej.omnetpp-ned",
+        "ms-vscode.makefile-tools"
+    ]
+}
