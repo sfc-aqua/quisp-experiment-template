@@ -1,3 +1,6 @@
 [submodule "quisp"]
 	path = quisp
 	url = https://github.com/sfc-aqua/quisp.git
+[submodule "quispr"]
+	path = quispr
+	url = https://github.com/sfc-aqua/quispr.git
