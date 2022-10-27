@@ -580,7 +580,7 @@ toml = "^0.10.2"
 
 [package.source]
 type = "directory"
-url = "quisp/quispr"
+url = "quispr"
 
 [[package]]
 name = "rich"
