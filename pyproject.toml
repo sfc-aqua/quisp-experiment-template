@@ -7,7 +7,7 @@ authors = ["zigen <hrlclb@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.10"
 quispr = { path = "./quispr", develop = true }
-ipykernel = "^6.15.2"
+ipykernel = "^6.19.4"
 pandas = "^1.4.3"
 matplotlib = "^3.5.3"
 
