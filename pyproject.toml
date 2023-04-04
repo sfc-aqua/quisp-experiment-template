@@ -8,7 +8,7 @@ authors = ["zigen <hrlclb@gmail.com>"]
 python = "^3.10"
 quispr = { path = "./quispr", develop = true }
 ipykernel = "^6.19.4"
-pandas = "^1.4.3"
+pandas = "^2.0.0"
 matplotlib = "^3.5.3"
 
 
